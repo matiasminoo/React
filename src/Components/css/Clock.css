@@ -1,0 +1,7 @@
+#clock {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 24%;
+}

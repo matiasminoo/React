@@ -1,0 +1,6 @@
+#producto {
+    display: flex;
+    justify-content: center;
+    overflow-x: auto;
+    width: 90%;
+}
